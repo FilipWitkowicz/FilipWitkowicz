@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Filip - a determined Computer Science student and programming enthusiast looking for new challenges and opportunities.
 
 <!--
 **FilipWitkowicz/FilipWitkowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
