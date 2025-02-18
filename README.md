@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi there 👋 I'm Filip<br><br> - a 3rd-year determined Computer Science student and programming enthusiast looking for new challenges and opportunities.<br><br> - a project group leader in AKAI<br><br> - my main interests are backend development , data analysis and deep learning<br><br> - currently learning DevOps
+# 💫 Hi there 👋 I'm Filip:<br><br>
+
+🎓 A 3rd-year determined Computer Science student and programming enthusiast looking for new challenges and opportunities.<br><br>  
+🚀 A project group leader in AKAI<br><br>  
+💻 My main interests are backend development, data analysis, and deep learning<br><br>  
+🐳 Currently learning DevOps  
+
 
 
 ## 🌐 Socials:
