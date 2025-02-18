@@ -26,13 +26,6 @@ Hi there 👋 I'm Filip<br><br> - a 3rd-year determined Computer Science student
 
 
 
-
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FilipWitkowicz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=FilipWitkowicz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
