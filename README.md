@@ -2,8 +2,7 @@
 
 🎓 A 4th-year determined Computer Science student and programming enthusiast looking for new challenges and opportunities.<br><br>  
 🚀 A project group leader in AKAI<br><br>  
-💻 My main interests are backend development, data analysis, and deep learning<br><br>  
-🐳 Currently learning DevOps  
+💻 My main interests are backend development, data analysis and DevOps<br><br>
 
 
 
